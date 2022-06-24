@@ -1,3 +1,4 @@
+# 6D - 19090094 - Alfin Auzikri
 import os
 import torch
 from flask import Flask, jsonify, request
